@@ -44,4 +44,5 @@ void format_o(va_list valist, char *buffer, int *index);
 void format_b(va_list valist, char *buffer, int *index);
 void format_r(va_list valist, char *buffer, int *index);
 void format_R(va_list valist, char *buffer, int *index);
+int _putchar(char c);
 #endif /* MAIN_H */
