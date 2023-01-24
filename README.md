@@ -14,4 +14,4 @@
 ## holberton.h
 * Header file that contains prototypes for all the functions and a struct holding a function and a character
 ## man_3_printf
-* Custom man page Create a man page for your function.
+* Custom man page Create a man page for your function./

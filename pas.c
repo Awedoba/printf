@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * format_p - function that print a pointer address
- * @valist: argument list
+ * @valist: argument lists
  * @buffer: values stored
  * @index: tracks the index position
  */
