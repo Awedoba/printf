@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * format_r - reverse a string passed in
- * @valist: argument passed in
+ * @valist: argument passed in.
  * @buffer: values stored
  * @index: returns pointer to index
  */
